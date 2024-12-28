@@ -1,6 +1,7 @@
 # Install Pinokio AI
 
 
+These instructions install Pinokio AI with the MFlux model on my Mac.  This is took a very long time to run
 
 ## Install the Ollama
 
