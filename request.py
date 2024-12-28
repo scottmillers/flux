@@ -53,6 +53,7 @@ print(json.dumps(result, indent=4))
 # Extract image URL
 image_url = result['images'][0]['url']
 
+print(f"Image URL: {image_url}")
 
 # Call the function with the image URL and desired file name
 download_image(image_url, filename)
