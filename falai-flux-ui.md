@@ -1,4 +1,4 @@
-# Generate Realistic Headshots using Flux
+# Generate Realistic Headshots using Flux using the Fal UI
 
 These instructions use [Flux on fal.ai](https://fal.ai/) and a flux-lora training model to train to create images that incorporate a person into that image.
 
